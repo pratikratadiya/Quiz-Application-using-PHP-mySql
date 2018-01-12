@@ -1,0 +1,88 @@
+.button
+{
+    background-color: #000099;
+    border: 1px solid #33CCFF;
+    border-radius: 4px;
+    color: #33CCFF;
+    font-weight: bold;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 110%;
+    margin: 4px 30px;
+    cursor: pointer;
+    text-transform: uppercase;
+    position: relative;
+    left: 10%;
+}
+.button:hover
+{
+    box-shadow: 0 0 10px #33CCFF;
+}
+#question
+{
+    font-family: sans-serif;
+    text-shadow: 5px 5px 10px #000000;
+    color : white;
+    font-weight: 300;
+    font-size: 110%;
+    width: 80%;
+    height: 140px;
+    position: relative;
+    top: 40px;
+    left: 10%;
+}
+.option
+{
+    background-color: #008CFF;
+    border: none;
+    color: white;
+    width: 40%;
+    border-radius: 4px;
+    position: relative;
+    left: 10%;
+    padding: 10px;
+    margin: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.option:hover
+{
+    background-color: #000099;
+    border-color: #33CCFF;
+    width: 41%;
+    height: 55px;
+    color:#33CCFF;
+    transition: 0.5s;
+    padding: 12px;
+    cursor: pointer;
+}
+.optionActive
+{
+    background-color: #000099;
+    border-color: #33CCFF;
+    box-shadow: 0 0 10px #33CCFF;
+    width: 41%;
+    height: 55px;
+    color:#33CCFF;
+    transition: 0.5s;
+    padding: 12px;
+    cursor: pointer;
+}
+  
+#timer
+{
+    color: white;
+    background-color: #000099;
+    text-align: center;
+    width: 10%;
+    float: right;
+}
+#book-mark
+{
+    color: white;
+    font-size: 150%;
+    position:relative;
+    top: 50px;
+    left:50px;
+}

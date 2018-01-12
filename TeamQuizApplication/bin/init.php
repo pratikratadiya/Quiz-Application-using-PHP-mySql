@@ -1,0 +1,22 @@
+<?php
+    $_SESSION["answer1"]='';
+    $_SESSION["answer2"]='';
+    $_SESSION["answer3"]='';
+    $_SESSION["answer4"]='';
+    $_SESSION["answer5"]='';
+    $_SESSION["answer6"]='';
+    $_SESSION["answer7"]='';
+    $_SESSION["answer8"]='';
+    $_SESSION["answer9"]='';
+    $_SESSION["answer10"]='';
+    $_SESSION["answer11"]='';
+    $_SESSION["answer12"]='';
+    $_SESSION["answer13"]='';
+    $_SESSION["answer14"]='';
+    $_SESSION["answer15"]='';
+    $_SESSION["answer16"]='';
+    $_SESSION["answer17"]='';
+    $_SESSION["answer18"]='';
+    $_SESSION["answer19"]='';
+    $_SESSION["answer20"]='';
+?>

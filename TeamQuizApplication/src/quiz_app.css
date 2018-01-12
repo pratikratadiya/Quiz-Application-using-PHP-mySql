@@ -1,0 +1,27 @@
+#header
+{
+    background-image: url("https://i.ytimg.com/vi/d-zKJCKsoWw/maxresdefault.jpg");
+    height : 90px;
+    width: 100%;
+    margin-top: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#header-content
+{
+    font-family: sans-serif;
+    text-shadow: 5px 5px 10px #000000;
+    color : white;
+    font-size:300%;
+    position: relative;
+    top: 15px;
+}
+body
+{
+    margin-left: 0px;
+    background : -webkit-linear-gradient(to right, rgb(12,24,97), rgb(21,35,127), rgb(12,24,97)); /* For Safari 5.1 to 6.0 */
+    background : -o-linear-gradient(to right, rgb(12,24,97), rgb(21,35,127), rgb(12,24,97)); /* For Opera 11.1 to 12.0 */
+    background : -moz-linear-gradient(to right, rgb(12,24,97), rgb(21,35,127), rgb(12,24,97)); /* For Firefox 3.6 to 15 */
+    background:linear-gradient(to top right, #000099, #33CCFF);
+}

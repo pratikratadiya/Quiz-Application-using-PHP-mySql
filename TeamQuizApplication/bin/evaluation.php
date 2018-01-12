@@ -1,0 +1,46 @@
+<?php
+    session_start();
+    $score=0;
+    $answers=array("A","B","B","B","D","B","B","A","A","A","D","D","D","B","A","A","A","A","B","B");
+
+    if($_SESSION["answer1"]==$answers[0])
+        $score++;
+    if($_SESSION["answer2"]==$answers[1])
+        $score++;
+    if($_SESSION["answer3"]==$answers[2])
+        $score++;
+    if($_SESSION["answer4"]==$answers[3])
+        $score++;
+    if($_SESSION["answer5"]==$answers[4])
+        $score++;
+    if($_SESSION["answer6"]==$answers[5])
+        $score++;
+    if($_SESSION["answer7"]==$answers[6])
+        $score++;
+    if($_SESSION["answer8"]==$answers[7])
+        $score++;
+    if($_SESSION["answer9"]==$answers[8])
+        $score++;
+    if($_SESSION["answer10"]==$answers[9])
+        $score++;
+    if($_SESSION["answer11"]==$answers[10])
+        $score++;
+    if($_SESSION["answer12"]==$answers[11])
+        $score++;
+    if($_SESSION["answer13"]==$answers[12])
+        $score++;
+    if($_SESSION["answer14"]==$answers[13])
+        $score++;
+    if($_SESSION["answer15"]==$answers[14])
+        $score++;
+    if($_SESSION["answer16"]==$answers[15])
+        $score++;
+    if($_SESSION["answer17"]==$answers[16])
+        $score++;
+    if($_SESSION["answer18"]==$answers[17])
+        $score++;
+    if($_SESSION["answer19"]==$answers[18])
+        $score++;
+    if($_SESSION["answer20"]==$answers[19])
+        $score++;
+?>
